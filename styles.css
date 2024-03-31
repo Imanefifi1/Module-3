@@ -1,0 +1,43 @@
+.navbar {
+    background-color: #333;
+  }
+  
+  .navbar-brand {
+    color: rgb(165, 162, 162);
+  }
+  
+  .navbar-toggler-icon {
+    color: rgb(63, 43, 43);
+  }
+  
+  .navbar-nav {
+    background-color: #9b4d4d;
+  }
+  
+  .dropdown-menu {
+    width: 100%;
+    background-color: #4b6d8f; 
+  
+  .page-heading {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .tall-section {
+    background-color: #181c20;
+    height: 1000px; 
+
+    .section {
+        height: 700px;
+        margin-bottom: 30px;
+      
+      .section-heading {
+        margin-top: 50px;
+      }
+      
+      .back-to-top {
+        display: block;
+        text-align: center;
+        margin-top: 20px;
+      }
